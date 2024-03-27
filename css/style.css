@@ -1,0 +1,8 @@
+.bg-box {
+  background-color: forestgreen;
+  width: 100vw;
+  background-image: url(house), url();
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 300px, 25px, 200px, 25px;
+}
